@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "37263990878",
+    "firebase_url": "https://ddgame-151be.firebaseio.com",
+    "project_id": "ddgame-151be",
+    "storage_bucket": "ddgame-151be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37263990878:android:d15eeaff194b2ad5",
+        "android_client_info": {
+          "package_name": "com.example.peiru.facbook_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37263990878-fdmilrg6t9dhk4bsh8cpgo1cfcbu73mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peiru.facbook_try",
+            "certificate_hash": "b5a22fe12845e14294bb052a12f4868ddbed62f1"
+          }
+        },
+        {
+          "client_id": "37263990878-2aho19fuf92pctbnq4ovr81o9tvm6dlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrM-nt6eS9CvmT67EyvSfCtv6v4zy65bo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37263990878-2aho19fuf92pctbnq4ovr81o9tvm6dlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

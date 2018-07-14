@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Facbook_Try</string>
+    <string name="facebook_app_id">438506126631052</string>
+    <string name="fb_login_protocol_scheme">fb438506126631052</string>
+    <string name="paypal_button">Pay with PayPal</string>
+</resources>
